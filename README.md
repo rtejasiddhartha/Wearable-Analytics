@@ -1,4 +1,4 @@
-# Wearable Health Analytics & AI-Powered Risk Monitoring
+# Wearable Health Analytics & Risk Monitoring
 
 ## Overview
 This project builds an end-to-end **wearable health analytics and risk intelligence system** using real-world wearable sensor data. The goal is to transform raw, noisy wearable signals into **validated health indicators, longitudinal risk patterns, and interpretable machine-learning insights** that go beyond what typical consumer health apps provide.
@@ -22,22 +22,6 @@ Unlike snapshot-based fitness summaries, this project focuses on **temporal heal
 - Mixed granularity (minute-level, interval-level, daily summaries)
 - Realistic missing days, partial recordings, and device sync issues
 - Combination of **real wearable data** and **controlled synthetic ECG scenarios**
-
----
-
-## Project Architecture
-wearable-analytics/
-│
-├── notebooks/
-│ ├── sleep_analytics.ipynb
-│ ├── steps_analytics.ipynb
-│ ├── heart_rate_analytics.ipynb
-│ ├── workouts_analytics.ipynb
-│ ├── health_integration.ipynb
-│ ├── ecg_event_analysis.ipynb
-│
-├── README.md
-├── requirements.txt
 
 ---
 
@@ -166,9 +150,6 @@ This validates the model’s robustness and avoids artificial performance inflat
 - **Data Handling**
   - Excel-based ingestion
   - Wearable XML exports
-- **Visualization (Optional / External)**
-  - Power BI (used only for reporting, not core logic)
-
 ---
 
 ## Current Project Status
