@@ -9,7 +9,7 @@ Unlike snapshot-based fitness summaries, this project focuses on **temporal heal
 
 ## Key Objectives
 - Convert raw wearable data into **analysis-ready datasets**
-- Analyze **sleep, activity, and heart rate** both independently and jointly
+- Analyze **sleep, activity, and heart rate** independently and jointly
 - Engineer **health risk features** with real-world data gaps
 - Build a unified **health timeline** for longitudinal monitoring
 - Apply **interpretable machine learning** for health risk classification
