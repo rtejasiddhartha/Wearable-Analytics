@@ -166,6 +166,13 @@ Insights are intended to demonstrate data analytics and ML workflows using weara
 
 ---
 
-## Author
-**Teja Siddhartha**  
-Data Analyst | Python | Machine Learning | Health Analytics
+## 👤 Author
+
+**R. Teja Siddhartha**
+
+- 💼 LinkedIn: https://linkedin.com/in/rtejasiddhartha  
+- 💻 GitHub: https://github.com/rtejasiddhartha  
+- 📧 Email: rtejasiddhartha18@gmail.com  
+
+---
+
